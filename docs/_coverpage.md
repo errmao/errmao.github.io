@@ -9,5 +9,5 @@
 * 📓 操作教学教程
 
 [GitHub](https://github.com/errmao/zzw)
-[Get Started](#start)
+[Get Started]()
 
