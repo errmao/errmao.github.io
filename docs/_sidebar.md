@@ -3,10 +3,9 @@
 
   * [测试4](zh-cn/ddd)
 
-
 - 教程笔记
 
-  * [测试1](zh-cn/its/test1)
+  * [CentOs7安装docker](zh-cn/its/20200405-1)
   * [测试2](zh-cn/test2)
 
 - 问题解决
