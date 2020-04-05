@@ -17,34 +17,52 @@
       loadSidebar: true,
       subMaxLevel: 2,
       auto2top: true,
+      notFoundPage: true,
 
       // 完整配置参数
-    search: {
-      maxAge: 86400000, // 过期时间，单位毫秒，默认一天
-      paths: 'auto', // or 'auto'
-      placeholder: '搜索',
+      search: {
+        maxAge: 86400000, // 过期时间，单位毫秒，默认一天
+        paths: 'auto', // or 'auto'
+        placeholder: '搜索',
 
-      // 支持本地化
-      placeholder: {
-        '/zh-cn/': '搜索',
-        '/': '搜索'
-      },
+        // 支持本地化
+        placeholder: {
+          '/zh-cn/qa/': '搜索',
+          '/zh-cn/its/': '搜索',
+          '/zh-cn/study/': '搜索',
+          '/zh-cn/': '搜索',
+          '/': '搜索'
+        },
 
-      noData: '找不到结果!',
+        noData: '找不到结果!',
 
-      // 支持本地化
-      noData: {
-        '/zh-cn/': '找不到结果',
-        '/': '找不到结果!'
-      },
+        // 支持本地化
+        noData: {
+          '/zh-cn/qa/': '找不到结果!',
+          '/zh-cn/its/': '找不到结果!',
+          '/zh-cn/study/': '找不到结果!',
+          '/zh-cn/': '找不到结果!',
+          '/': '找不到结果!'
+        },
 
-      // 搜索标题的最大程级, 1 - 6
-      depth: 3
+        // 搜索标题的最大程级, 1 - 6
+        depth: 3
+      }
     }
+    if (typeof navigator.serviceWorker !== 'undefined') {
+      navigator.serviceWorker.register('sw.js')
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <!-- emoji -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+  <!-- 搜索 -->
   <script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
+  <!-- Java 语法 -->
+  <script src="//unpkg.com/prismjs/components/prism-java.min.js"></script>
+  <!-- 图片缩放 -->
+  <script src="//unpkg.com/docsify/lib/plugins/zoom-image.js"></script>
+  <!-- 复制到剪贴板 -->
+  <script src="//unpkg.com/docsify-copy-code"></script>
 </body>
 </html>
