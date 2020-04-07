@@ -10,4 +10,4 @@
 
 - 问题解决
 
- * [测试3](zh-cn/test3)
+ * [docker断电使gitlab无法访问](zh-cn/qa/20200407-1)
