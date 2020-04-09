@@ -1,12 +1,11 @@
 - [首页](README)
 - 学习笔记
 
-  * [测试4](zh-cn/ddd)
+  * [微信公众号后台开发教程](zh-cn/study/20200409-1)
 
 - 教程笔记
 
   * [CentOS7安装docker](zh-cn/its/20200405-1)
-  * [测试2](zh-cn/test2)
 
 - 问题解决
 
