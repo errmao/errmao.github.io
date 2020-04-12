@@ -6,6 +6,7 @@
 - 教程笔记
 
   * [CentOS7安装docker](zh-cn/its/20200405-1)
+  * [PowerDesigner表结构导出Excel](zh-cn/study/20200412-1)
 
 - 问题解决
 
