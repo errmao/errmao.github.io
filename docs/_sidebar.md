@@ -1,11 +1,20 @@
 - [首页](README)
 
-- 教程
+- Linux
 
- * [1 - CentOS7 安装 Docker](zh-cn/study/20200405-1)
+ * [1 - 安装 Docker](zh-cn/study/20200405-1)
  * [2 - Docker 安装并实现 Nginx 主要功能](zh-cn/study/20200413-1)
- * [3 - 微信公众号后台开发教程](zh-cn/study/20200409-1)
- * [4 - PowerDesigner 表结构导出 Excel](zh-cn/study/20200412-1)
+ * [3 - Docker 安装 Redis](zh-cn/study/20200417-1)
+
+- Java
+
+ * [1 - 微信公众号后台开发教程](zh-cn/study/20200409-1)
+ * [2 - Springboot实现Redis过期监听](zh-cn/study/20200417-2)
+
+- 通用
+
+ * [1 - PowerDesigner 表结构导出 Excel](zh-cn/study/20200412-1)
+
 
 - 答疑
 
