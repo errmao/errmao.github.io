@@ -11,6 +11,10 @@
  * [1 - 微信公众号后台开发教程](zh-cn/study/20200409-1)
  * [2 - Springboot实现Redis过期监听](zh-cn/study/20200417-2)
 
+- 前端
+
+ * [1 - VS Code前端插件安装](zh-cn/qd/20200418-1)
+
 - 通用
 
  * [1 - PowerDesigner 表结构导出 Excel](zh-cn/study/20200412-1)
