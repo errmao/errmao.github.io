@@ -1,6 +1,8 @@
+#  
+
 ![logo](_media/logo_rainbow.svg)
 
-# 知识库  <small>version 1.0</small>
+## 知识库
 
 ## 一个简单的学习笔记和收藏的知识库
 
