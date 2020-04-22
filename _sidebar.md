@@ -3,10 +3,11 @@
 - Linux
 
   - [1 - 安装 Docker](zh-cn/study/20200405-1)
-  - [2 - Docker 安装实现 Nginx 功能(1)](zh-cn/study/20200413-1)
-  - [3 - Docker 安装实现 Nginx 功能(2)](zh-cn/study/20200422-1)
-  - [3 - Docker 安装 Redis](zh-cn/study/20200417-1)
-  - [4 - Docker 安装 GitLab](zh-cn/study/20200420-1)
+  - [2 - Docker 安装 Nginx](zh-cn/study/20200413-1)
+  - [3 - Docker 安装实现 Nginx 功能(1)](zh-cn/study/20200422-1)
+  - [4 - Docker 安装实现 Nginx 功能(2)](zh-cn/study/20200422-2)
+  - [5 - Docker 安装 Redis](zh-cn/study/20200417-1)
+  - [6 - Docker 安装 GitLab](zh-cn/study/20200420-1)
 
 - Java
 
