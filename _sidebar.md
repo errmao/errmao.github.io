@@ -25,6 +25,7 @@
 - 通用
 
   - [1 - PowerDesigner 表结构导出 Excel](zh-cn/study/20200412-1)
+  - [2 - MarkdownLint 语法规范提示内容](zh-cn/note/20200423-1)
 
 - 答疑
 
