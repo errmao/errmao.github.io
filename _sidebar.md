@@ -8,6 +8,7 @@
   - [4 - Docker 安装实现 Nginx 功能(2)](zh-cn/study/20200422-2)
   - [5 - Docker 安装 Redis](zh-cn/study/20200417-1)
   - [6 - Docker 安装 GitLab](zh-cn/study/20200420-1)
+  - [7 - Linux 压缩图片](zh-cn/study/20200426-1)
 
 - Java
 
