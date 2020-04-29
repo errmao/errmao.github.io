@@ -15,6 +15,10 @@
   - [1 - 微信公众号后台开发教程](zh-cn/study/20200409-1)
   - [2 - Springboot实现Redis过期监听](zh-cn/study/20200417-2)
 
+- Mysql
+
+  - [1 - 列转行查询案例](zh-cn/mysql/20200429-1)
+
 - 笔记
 
   - [1 - Java 8 新特性 - Lambda表达式](zh-cn/note/20200421-1)
