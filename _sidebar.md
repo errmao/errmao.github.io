@@ -36,4 +36,5 @@
 
   - [1 - Docker 断电使 GitLab 无法访问](zh-cn/qa/20200407-1)
   - [2 - Win10 下无法使用 docsify 命令](zh-cn/qa/20200407-2)
+  - [3 - Vue POST提交变成GET](zh-cn/qa/20200501-1)
   
