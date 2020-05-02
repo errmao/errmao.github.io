@@ -14,6 +14,7 @@
 
   - [1 - 微信公众号后台开发教程](zh-cn/study/20200409-1)
   - [2 - Springboot实现Redis过期监听](zh-cn/study/20200417-2)
+  - [3 - Mybatis-Plus 代码生成](zh-cn/study/20200502-1)
 
 - Mysql
 
