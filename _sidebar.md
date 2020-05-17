@@ -22,6 +22,7 @@
   - [Springboot2.x 整合 Redis](docss/202005/005.md)
   - [Springboot2.x 整合 SECURITY + JWT](docss/202005/006.md)
   - [Springboot2.x 依赖 Jenkins 和 Github 持续集成（1）](docss/202005/023.md)
+  - [Springboot2.x 依赖 Jenkins 和 Github 持续集成（2）](docss/202005/024.md)
 
 - **其他**
 
