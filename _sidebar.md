@@ -1,5 +1,4 @@
 - **Linux**
-
   - [CentOS7 安装 Docker](docss/202005/007.md)
   - [CentOS7 压缩图片](docss/202005/008.md)
   - [CentOS8 安装 docker](docss/202005/009.md)
@@ -13,9 +12,8 @@
   - [Docker 部署可视化工具Portainer](docss/202005/021.md)
   - [Docker 安装 Jenkins](docss/202005/022.md)
   - [Docker 设置容器时间](docss/202005/025.md)
-
+  - [Docker 安装 RabbitMQ](docss/202005/027.md)
 - **Java**
-
   - [Springboot2.x 接口防止恶意请求多次](docss/202005/001.md)
   - [Springboot2.x 开发微信公众号](docss/202005/002.md)
   - [Springboot2.x 实现 Redis 过期监听](docss/202005/003.md)
@@ -25,13 +23,9 @@
   - [Springboot2.x 依赖 Jenkins 和 Github 持续集成（1）](docss/202005/023.md)
   - [Springboot2.x 依赖 Jenkins 和 Github 持续集成（2）](docss/202005/024.md)
   - [Springboot2.x 统一参数校验](docss/202005/026.md)
-
 - **其他**
-
   - [MarkdownLint 语法规范提示内容](docss/202005/017.md)
   - [VSCode 前端插件安装](docss/202005/018.md)
-
 - **疑答**
-
   - [Docker 断电使 GitLab 无法访问](docss/202005/019.md)
   - [Win10 下无法使用 docsify 命令](docss/202005/020.md)
