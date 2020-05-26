@@ -26,6 +26,7 @@
 - **其他**
   - [MarkdownLint 语法规范提示内容](docss/202005/017.md)
   - [VSCode 前端插件安装](docss/202005/018.md)
+  - [Jenkins 部署 Vue 项目](docss/202005/028.md)
 - **疑答**
   - [Docker 断电使 GitLab 无法访问](docss/202005/019.md)
   - [Win10 下无法使用 docsify 命令](docss/202005/020.md)
