@@ -23,6 +23,7 @@
   - [Springboot2.x 依赖 Jenkins 和 Github 持续集成（1）](docss/202005/023.md)
   - [Springboot2.x 依赖 Jenkins 和 Github 持续集成（2）](docss/202005/024.md)
   - [Springboot2.x 统一参数校验](docss/202005/026.md)
+  - [Springboot2.x 使用 Redis 缓存](docss/202005/029.md)
 - **其他**
   - [MarkdownLint 语法规范提示内容](docss/202005/017.md)
   - [VSCode 前端插件安装](docss/202005/018.md)
