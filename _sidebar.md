@@ -26,6 +26,8 @@
   - [Springboot2.x 使用 Redis 缓存](docss/202005/029.md)
   - [Springboot2.x 使用 Caffeine 缓存手动模式](docss/202006/01.md)
   - [Springboot2.x 使用 Caffeine 缓存自动模式](docss/202006/02.md)
+- **Vue**
+  - [Vue 构建（1）-安装NodeJs](docss/202006/04.md)
 - **其他**
   - [MarkdownLint 语法规范提示内容](docss/202005/017.md)
   - [VSCode 前端插件安装](docss/202005/018.md)
