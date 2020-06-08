@@ -3,4 +3,4 @@
 # 知识库
 
 [GitHub](https://github.com/errmao/zzw)
-[Get Started](README)
+[快速开始](README)
