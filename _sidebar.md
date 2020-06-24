@@ -13,6 +13,7 @@
   - [Docker 安装 Jenkins](docss/202005/022.md)
   - [Docker 设置容器时间](docss/202005/025.md)
   - [Docker 安装 RabbitMQ](docss/202005/027.md)
+  - [CentOS 设置静态 IP](docss/202006/14.md)
 - **Java**
   - [Springboot2.x 接口防止恶意请求多次](docss/202005/001.md)
   - [Springboot2.x 开发微信公众号](docss/202005/002.md)
