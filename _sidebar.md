@@ -15,6 +15,7 @@
   - [Docker 安装 RabbitMQ](docss/202005/027.md)
   - [CentOS 设置静态 IP](docss/202006/14.md)
   - [CentOS 安装 docker-compose](docss/202006/15.md)
+  - [CentOS 设置 yum 清华大学镜像](docss/202006/16.md)
 - **Java**
   - [Springboot2.x 接口防止恶意请求多次](docss/202005/001.md)
   - [Springboot2.x 开发微信公众号](docss/202005/002.md)
