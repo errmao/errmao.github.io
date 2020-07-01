@@ -39,6 +39,7 @@
   - [Vue 加载chunk-vendors过大解决](docss/202006/08.md)
   - [Vue 下载附件](docss/202006/10.md)
   - [Vue 引入 TinyMCE](docss/202006/12.md)
+  - [Vue 回车登录](docss/202027/01.md)
 - **其他**
   - [MarkdownLint 语法规范提示内容](docss/202005/017.md)
   - [VSCode 前端插件安装](docss/202005/018.md)
