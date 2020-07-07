@@ -17,6 +17,7 @@
   - [CentOS 安装 docker-compose](docss/202006/15.md)
   - [CentOS 设置 yum 清华大学镜像](docss/202006/16.md)
   - [docker-compose使用教程](docss/202007/03.md)
+  - [dockerfile使用教程](docss/202007/05.md)
 - **Java**
   - [Springboot2.x 接口防止恶意请求多次](docss/202005/001.md)
   - [Springboot2.x 开发微信公众号](docss/202005/002.md)
