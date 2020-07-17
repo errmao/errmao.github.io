@@ -37,6 +37,7 @@
   - [Gradle 简易教程](docss/202007/02.md)
   - [Springboot2.x 使用 shardingsphere](docss/202007/07.md)
   - [Maven 仓库配置](docss/202007/09.md)
+  - [Springboot2.x 使用 RedisTemplate 示例](docss/202007/10.md)
 - **Vue**
   - [Vue 构建（1）-安装NodeJs](docss/202006/04.md)
   - [Vue 构建（2）-安装Vue及cli](docss/202006/05.md)
