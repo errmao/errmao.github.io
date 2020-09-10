@@ -58,6 +58,7 @@
   - [VSCode 前端插件安装](docss/202005/018.md)
   - [Git 提交用户名和账号设置](docss/202005/028.md)
   - [Win10 使用 Docker](docss/202007/12.md)
+  - [MySQL 造数](docss/202009/04.md)
 - **疑答**
   - [Docker 断电使 GitLab 无法访问](docss/202005/019.md)
   - [Win10 下无法使用 docsify 命令](docss/202005/020.md)
