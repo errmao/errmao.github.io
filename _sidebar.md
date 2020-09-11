@@ -42,6 +42,7 @@
   - [Logback 日志配置](docss/202009/01.md)
   - [Springboot2.x 多数据源配置](docss/202009/02.md)
   - [Springboot2.x 使用线程池](docss/202009/03.md)
+  - [Springboot2.x 初始化](docss/202009/05.md)
 - **Vue**
   - [Vue 构建（1）-安装NodeJs](docss/202006/04.md)
   - [Vue 构建（2）-安装Vue及cli](docss/202006/05.md)
