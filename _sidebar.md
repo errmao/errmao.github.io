@@ -47,6 +47,7 @@
   - [Springboot2.x 使用线程池](docss/202009/03.md)
   - [Springboot2.x 初始化](docss/202009/05.md)
   - [Springboot2.x 自定义Starter](docss/202009/09.md)
+  - [GitLab CICD 部署 Springboot2.x 项目](docss/202009/10.md)
 - **Vue**
   - [Vue 构建（1）-安装NodeJs](docss/202006/04.md)
   - [Vue 构建（2）-安装Vue及cli](docss/202006/05.md)
