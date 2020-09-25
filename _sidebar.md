@@ -21,6 +21,7 @@
   - [Docker 安装 Zipkin](docss/202009/06.md)
   - [Docker 部署API文档工具YAPI](docss/202009/07.md)
   - [Docker 安装 mongo](docss/202009/08.md)
+  - [GitLab CICD 部署 Nginx + Vue](docss/202009/11.md)
 - **Java**
   - [Springboot2.x 接口防止恶意请求多次](docss/202005/001.md)
   - [Springboot2.x 开发微信公众号](docss/202005/002.md)
